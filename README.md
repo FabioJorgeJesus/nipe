@@ -37,6 +37,9 @@ All non-local UDP/ICMP traffic is also blocked by the Tor project.
 
   # Nipe must be run as root
   $ perl nipe.pl install
+  
+  #Check the Pulic IP
+  $ curl ifconfig.me.
 ```
 ---
 
